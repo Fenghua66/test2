@@ -1,0 +1,14 @@
+
+Project: ContactNet - Contact
+To: fenghua.liu@moelis.com
+From: cloudera_notifications@moelis.com
+Environment: PROD
+Date: Dec 9 2022 5:05AM
+
+Object Name	Total Count	Inserted Count	Updated Count	Deleted Count	Error Count
+ContactNet.Contact	335	205	130	0	0
+
+
+#test note
+
+#add 
